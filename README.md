@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Fangyi (Cecilia) Wu
 
 🎓 Master's in Applied Data Science @ University of Chicago  
-🎓 Bachelor of Science in Finance @ Tulane University
+🎓 Bachelor of Science in Finance @ Tulane University  
 📊 Finance + Machine Learning | Innovation & Inclusive Finance
 🌐 [LinkedIn](https://www.linkedin.com/in/fangyi-wu) | 📬 fangyiwu0717@gmail.com  
 
