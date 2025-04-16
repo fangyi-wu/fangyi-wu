@@ -36,8 +36,5 @@ These projects reflect my passion for using data-driven methods to better unders
 
 ## 📌 What's Next?
 
-I'm open to **research collaborations**, **PhD opportunities**, and **industry roles** focused on ML + finance and economic research..  
+I'm open to **research collaborations**, **PhD opportunities**, and **industry roles** focused on ML + finance and economic research.  
 Let’s connect!
-
----
-
